@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://mygit01.visualstudio.com/Parts%20Unlimited/_apis/build/status/pushkersahai.ContosoAir?branchName=master)](https://mygit01.visualstudio.com/Parts%20Unlimited/_build/latest?definitionId=9&branchName=master)
 
 # Microsoft.Github CI Demo
 
